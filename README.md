@@ -8,7 +8,7 @@ I mainly code in Java and Angular but I'm eager to learn other languages (curren
 
 I am also reading books and learning about software craftmanship. 
 
-If you're interested in working together, you can reach via :
+If you're interested in working together, you can reach me via :
 - 📧 christophe.sahid@gmail.com
 
 Take care !
