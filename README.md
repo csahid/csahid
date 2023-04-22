@@ -2,7 +2,7 @@
 
 I am a software engineer from Noumea, New Caledonia.
 
-I graduated from the University of Rennes 1, Rennes, France and currently working as a fullstack software engineer at Sopra Steria.
+I graduated from the University of Rennes 1, Rennes, France and currently working as a fullstack software engineer at DEVmachine.
 
 I mainly code in Java and Angular but I'm eager to learn other languages and frameworks (currently aiming at NodeJS and Python)
 
