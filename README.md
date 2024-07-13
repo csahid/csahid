@@ -1,8 +1,8 @@
 ### Hi there, I'm Christophe 👋
 
-I am a software engineer from Noumea, New Caledonia.
+I am a developer from Noumea, New Caledonia.
 
-I graduated from the University of Rennes 1, Rennes, France and currently working as a fullstack software engineer at DEVmachine.
+I graduated from the University of Rennes 1, Rennes, France and currently working as a fullstack developer at DEVmachine.
 
 I mainly code in Java and Angular but I'm eager to learn other languages and frameworks (currently aiming at Node.js and Vue.js)
 
