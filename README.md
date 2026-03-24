@@ -13,4 +13,5 @@ I build stuff that works (most of the time).
 ![Docker](https://img.shields.io/badge/docker-0?style=for-the-badge&color=blue)
 ![Linux](https://img.shields.io/badge/linux-0?style=for-the-badge&color=cyan)
 ![Git](https://img.shields.io/badge/git-0?style=for-the-badge&color=grey)
+![Tmux](https://img.shields.io/badge/tmux-0?style=for-the-badge)
 
